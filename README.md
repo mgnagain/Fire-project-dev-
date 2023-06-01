@@ -1,3 +1,3 @@
 # Fire-project
 
-Official repo for the fire prediction project.
+Official visualization repo for the fire project.
